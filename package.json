@@ -1,0 +1,22 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "axios": "^1.7.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.46.0",
+    "pngjs": "^7.0.0",
+    "puppeteer-core": "^23.0.2"
+  }
+}
